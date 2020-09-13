@@ -12,7 +12,7 @@ int main() {
 				//จำนวนเฉพาะ
 				for (int j = 2; j < a; j++) {
 					if (a % j == 0) {
-						re = re + 1;
+						re = re + 2;
 						num2[i] = re;
 					}
 				}
